@@ -398,3 +398,14 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Archivos de compilación y paquetes
+bin/
+obj/
+packages/
+*.user
+.vscode/
+.idea/
+
+# Archivos temporales de la BD
+db/backups/
